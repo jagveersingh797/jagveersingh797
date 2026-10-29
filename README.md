@@ -1,3 +1,25 @@
+
+# Hi, I'm Jagveer Singh 👋
+
+🎓 BTech CSE Student
+
+💻 Currently learning C++ and Web Development
+
+🌱 Improving my Data Structures and Algorithms skills
+
+🛠️ Skills:
+- C++
+- HTML
+- CSS
+- JavaScript (Learning)
+
+📌 Goals:
+- Build practical projects
+- Learn Git and GitHub
+- Prepare for software development internships
+
+📫 Connect with me:
+- LinkedIn: https://www.linkedin.com/in/jagveer-singh-a787b1414/
 ## Hi there 👋
 
 <!--
